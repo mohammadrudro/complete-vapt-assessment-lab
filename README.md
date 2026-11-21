@@ -33,3 +33,18 @@ All exploitation activities were performed within an isolated and authorized lab
 
 ## Author
 Cybersecurity Student | Hands-on VAPT Lab Project
+## Learning Outcomes
+- Gained practical experience with reconnaissance and information gathering.
+- Learned network scanning and service enumeration techniques.
+- Identified vulnerabilities and evaluated security risks.
+- Practiced exploitation in a controlled virtual lab environment.
+- Improved technical documentation and remediation reporting skills.
+
+## Skills & Tools
+- Kali Linux
+- Nmap
+- Metasploit Framework
+- SearchSploit
+- VMware Workstation
+- Vulnerability Assessment
+- Penetration Testing
